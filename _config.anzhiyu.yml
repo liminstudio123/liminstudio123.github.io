@@ -39,9 +39,9 @@ nav:
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
-#mourn:
-  enable: false
-  days: [4-5, 5-12, 7-7, 9-18, 12-13]
+# mourn:
+# enable: false
+# days: [4-5, 5-12, 7-7, 9-18, 12-13]
 
 # Code Blocks (代码相关)
 # --------------------------------------
@@ -140,7 +140,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+  img: https://a0d7da0.webp.li/2024/10/channels4_profile.jpg
   effect: false
 
 # Disable all banner image

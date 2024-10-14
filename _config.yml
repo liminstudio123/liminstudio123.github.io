@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Limin Studio
+subtitle: '利民工作室'
+description: '一个专注于分享干活的博主，欢迎您的订阅'
 keywords:
-author: John Doe
-language: en
+author: Limin
+language: zh-CN
 timezone: ''
 
 # URL
