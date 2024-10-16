@@ -323,7 +323,7 @@ queueMicrotask(() => {
 
   const getComment = async () => {
     try {
-      const res = await fetch('https://hexotwikoo-proqmm8ym-liminstudios-projects.vercel.app/api/comment?type=recent&count=6', { method: 'GET' })
+      const res = await fetch('https://comments.blog.limin.studio/api/comment?type=recent&count=6', { method: 'GET' })
       const result = await res.json()
       const walineArray = result.data.map(e => {
         return {
