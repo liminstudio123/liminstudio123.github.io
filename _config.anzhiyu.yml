@@ -28,14 +28,14 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: 博客
-          link: https://blog.anheyu.com/
-          icon: /img/favicon.ico
+        - name: Telegram group
+          link: https://t.me/limingroup
+          icon: fa-brands fa-telegram
     - title: 项目
       item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://image.anheyu.com/favicon.ico
+        - name: YouTube
+          link: https://www.youtube.com/@Liminstudio
+          icon: fa-brands fa-youtube 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -66,11 +66,11 @@ copy:
 # formal:
 #   name: link || icon
 social:
-   Telegram: https://github.com/anzhiyu-c || fa-brands fa-telegram 
-   Youtube: https://space.bilibili.com/372204786 || fa-brands fa-youtube 
+   Telegram: https://t.me/limingroup || fa-brands fa-telegram
+   Youtube: https://www.youtube.com/@Liminstudio || fa-brands fa-youtube 
 # 作者卡片 状态
 author_status:
-  enable: false
+  enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
   skills:
@@ -79,7 +79,7 @@ author_status:
     # - 🏠 智能家居小能手
     # - 🔨 设计开发一条龙
     # - 🤝 专修交互与设计
-    # - 🏃 脚踏实地行动派
+     - 🏃 RUN！
     # - 🧱 团队小组发动机
     # - 💢 壮汉人狠话不多
 
@@ -972,8 +972,8 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
-  fontawesome: false #是否启用fontawesome6图标
+  ali_iconfont_js: https://at.alicdn.com/t/c/font_4714140_ne9xbpxxyzk.js?spm=a313x.manage_type_myprojects.i1.10.4f0e3a81ctARCf&file=font_4714140_ne9xbpxxyzk.js# 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  fontawesome: true #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
 # other
@@ -1052,17 +1052,17 @@ home_top:
   siteText: blog.limin.studio
   category:
     - name: 境外开户
-      path: /categories/前端开发/
+      path: /categories/境外开户/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 翻墙相关
-      path: /categories/大学生涯/
+    - name: 翻墙安全
+      path: /categories/大翻墙安全/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
     - name: 好用工具
-      path: /categories/生活日常/
+      path: /categories/好用工具/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book

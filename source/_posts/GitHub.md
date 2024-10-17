@@ -1,5 +1,5 @@
 ---
-title:  赛博大善人cloudflare大发慈悲了！免费高速稳定的图床！超级简单，一看就会！Cloudflare R2 + WebP Cloud + PicGo GitHub #【必需】页面标题
+title: 利用Cloudflare R2 + Workers搭建在线网盘，不限速，不用注册账号，不被墙 #【必需】页面标题
 date: {{ date }} #【必需】页面创建日期
 updated: #【可选】页面更新日期
 tags: #【可选】文章标签
@@ -7,7 +7,7 @@ categories: #【可选】文章分类
 keywords: #【可选】文章关键字
 description: #【可选】文章描述
 top: # 1 置顶
-top_img: #【可选】文章顶部图片
+top_img: https://13fe9ff.webp.li/2024/10/60919e5947aab971ddbe37f74bc6c221.png #【可选】文章顶部图片
 comments: #【可选】显示文章评论模块(默认 true)
 cover: https://13fe9ff.webp.li/2024/10/60919e5947aab971ddbe37f74bc6c221.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)
 toc: #【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)
