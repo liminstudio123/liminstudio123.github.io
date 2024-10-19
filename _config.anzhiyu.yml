@@ -1057,7 +1057,7 @@ home_top:
       class: blue
       icon: anzhiyu-icon-dove
     - name: 翻墙安全
-      path: /categories/大翻墙安全/
+      path: /categories/翻墙安全/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
@@ -1143,7 +1143,7 @@ visitorMail:
 ptool:
   enable: true
   share_mobile: true
-  share_weibo: true
+  share_weibo: false
   share_copyurl: true
   categories: false # 是否显示分类
   mode: # 运营模式与责任，不配置不显示
