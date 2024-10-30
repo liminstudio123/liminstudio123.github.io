@@ -1,14 +1,14 @@
 ---
-title: 零基础快速搭建个人博客：Hexo + GitHub Pages + Cloudflare Pages 全流程指南，免费部署超详细教程！ #【必需】页面标题
+title: 第一期：零基础快速搭建个人博客：Hexo + GitHub Pages + Cloudflare Pages 全流程指南，免费部署超详细教程！ #【必需】页面标题
 date: {{ date }} #【必需】页面创建日期
 tags: 网站搭建 #【好用工具】标签、分类、关于、音乐馆、友情链接、相册、相册详情、朋友圈、即刻页面需要配置
 updated: #【可选】页面更新日期
 comments: #【可选】显示页面评论模块(默认 true)
 description: #【可选】页面描述
 keywords: #【可选】页面关键字
-top_img: https://13fe9ff.webp.li/2024/10/73e7aab732bf2e1f07be3c32916f1c2b.png #【可选】页面顶部图片
+top_img: https://a0d7da0.webp.li/2024/10/1.png #【可选】页面顶部图片
 mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)
-cover: https://13fe9ff.webp.li/2024/10/73e7aab732bf2e1f07be3c32916f1c2b.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)
+cover: https://a0d7da0.webp.li/2024/10/1.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)
 katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)
 aside: #【可选】显示侧边栏 (默认 true)
 aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置
@@ -23,19 +23,46 @@ top_single_background: #【可选】部分页面的顶部模块背景图片
 
 ## 1. 前期准备工作
 
-1. [Git](https://git-scm.com/downloads)（**必备**）
-2. [VSCode](https://code.visualstudio.com/)（**可选**）
-3. 域名，建议配置一个域名以避免被防火墙阻挡，推荐购买链接： https://spaceship.sjv.io/limin
-4. 配置 Cloudflare，托管域名：[托管教程](https://youtu.be/3a6ImhcizcU?si=axjlZmba3q9wtTEN)
-5. 创建免费图床：[图床搭建教程](https://youtu.be/ah5szwr4JxM?si=18c42iG8NqIcHJLX)
-6. 注册cloudflare怕被扣费，推荐用myfine有50张虚拟卡（需要护照），教程链接：[注册教程](https://youtu.be/gg3Ji4WDszs?si=fqtFwTMjsnoUExxG)
+1. [Node](https://nodejs.org/en)（**必备**）
+2. [Git](https://git-scm.com/downloads)（**必备**）
+3. [VSCode](https://code.visualstudio.com/)（**可选**）
+4. 域名，建议配置一个域名以避免被防火墙阻挡，推荐购买链接： https://spaceship.sjv.io/limin
+5. 配置 Cloudflare，托管域名：[托管教程](https://youtu.be/3a6ImhcizcU?si=axjlZmba3q9wtTEN)
+6. 创建免费图床：[图床搭建教程](https://youtu.be/ah5szwr4JxM?si=18c42iG8NqIcHJLX)
+7. 注册cloudflare怕被扣费，推荐用myfine有50张虚拟卡（需要护照），教程链接：[注册教程](https://youtu.be/gg3Ji4WDszs?si=fqtFwTMjsnoUExxG)
+8. Hexo官方主题展示：[点击跳转](https://hexo.io/themes/)
+
+
+---
+
+<div class="video-container">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/64IUtZsvbCE?si=tJu0hQzTc_LlV-GH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 
 ### 2.1. 安装 Node
 
 1. 从 [Node 官网](https://nodejs.org/en) 下载适合自己系统的版本。
-2. 完成安装，建议使用默认目录 `C:/Program Files/nodejs/`。
+2. 完成安装，Windows电脑建议使用默认目录 `C:/Program Files/nodejs/`，苹果电脑无所谓。
 3. 验证安装成功，在命令行中输入 `node -v` 检查版本信息。
 ![示例图片](https://13fe9ff.webp.li/2024/10/2a18b0579664e643e4363fc93d47c842.png)
+
 4. 苹果用户可通过右键文件夹，选择“服务”，新建终端窗口以便操作。
 
 
@@ -44,6 +71,7 @@ top_single_background: #【可选】部分页面的顶部模块背景图片
 
 1. 从 [Git 官网](https://git-scm.com/downloads) 下载适配的 Git 版本。
 ![示例图片](https://13fe9ff.webp.li/2024/10/3957eda9a3c4ec8422eecc672b059d42.png)
+
 2. Windows 用户可使用默认目录安装 Git，Mac 用户则按提示在终端操作。
 3. 验证安装完毕后，Windows 用户会在开始菜单中看到 `Git Bash` 等应用。
 
@@ -94,6 +122,7 @@ id_rsa.pub 公钥
 2. 将 SSH KEY 配置到 GitHub
 进入github，点击右上角头像 选择settings，进入设置页后选择 SSH and GPG keys，名字随便起，公钥填到Key那一栏。
 ![abm](https://13fe9ff.webp.li/2024/10/84b777a4f0b9a8a290e1472087ce30e2.png)
+
 ![abm](https://13fe9ff.webp.li/2024/10/ab0ad8dba8ff5ace69b12e9ffa5d8b9d.png)
 
 
@@ -111,6 +140,7 @@ ssh -T git@github.com
 1. 点击右上角的 `+` 按钮，选择新建仓库，命名格式为 `<用户名>.github.io`，(注意：前缀必须为用户名)选择公开 `Public`。
 2. 点击 Creat repository 进行创建即可。
 ![abm](https://13fe9ff.webp.li/2024/10/aff632548c5c460783916a88a187e76a.png)
+
 ![abm](https://13fe9ff.webp.li/2024/10/6a6a086ab644e9f9ac5820570686e62c.png)
 
 ## 4. 初始化 Hexo 博客
@@ -137,6 +167,7 @@ cd blog-demo
 npm i
 ```
 ![abm](https://13fe9ff.webp.li/2024/10/d17588a07ad38a5285fc42d4c781f9cd.png)
+
 现在你的文件夹会有这些内容
 ![abm](https://13fe9ff.webp.li/2024/10/94f0f93b98c067b27d235830032d56ae.png)
 
@@ -149,31 +180,38 @@ hexo cl && hexo s
 在浏览器中访问 http://localhost:4000/ 以查看效果。
 
 ![abm](https://13fe9ff.webp.li/2024/10/5f1f08bb49c8f8d7f63c0bee92e3587b.png)
+
 ![abm](https://13fe9ff.webp.li/2024/10/d05ef82a66a25f7eeb37c0d14abdd9f0.png)
 
 
 ## 5. 将静态博客挂载到 GitHub Pages
 
-1. 安装 `hexo-deployer-git`：
+1. 修改 `_config.yml` 文件，配置 `repository` 为你的 GitHub 地址，分支改为 `main`：
+
+```yaml
+deploy:
+  type: git
+  repository: git@github.com:你的用户名/你的用户名.github.io.git
+  branch: main
+```
+![abm](https://13fe9ff.webp.li/2024/10/712da669873ad288ded87d76aa202596.png)
+
+2. 安装 `hexo-deployer-git`：
 
 ```bash
 npm install hexo-deployer-git --save
 ```
 
-2. 修改 `_config.yml` 文件，配置 `repository` 为你的 GitHub 地址，分支改为 `main`：
-
-```yaml
-deploy:
-  type: git
-  repository: git@github.com:你的用户名/你的用户名.git
-  branch: main
-```
-![abm](https://13fe9ff.webp.li/2024/10/712da669873ad288ded87d76aa202596.png)
-
 3. 部署到 GitHub：
 
 ```bash
-hexo clean && hexo generate && hexo deploy
+// Git BASH终端
+hexo clean && hexo generate && hexo deploy  
+
+// 或者
+
+// VSCODE终端
+hexo cl; hexo g; hexo d
 ```
 
 访问 `https://<用户名>.github.io/` 以查看博客。
@@ -233,24 +271,3 @@ hexo cl && hexo g && hexo d
 ```bash
 Set-ExecutionPolicy RemoteSigned
 ```
----
-
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
