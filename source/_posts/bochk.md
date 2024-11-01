@@ -1,6 +1,6 @@
 ---
 title: 神卡出世！超越汇丰蓝狮子！中银万事达扣账卡，让您轻松消费，无上限0.5%现金回赠，带您畅游全球！
-cover: https://a0d7da0.webp.li/2024/11/中银万事达卡®扣账卡.png
+cover: https://a0d7da0.webp.li/2024/11/bochk.png
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -11,7 +11,7 @@ categories:
 keywords:
 description:
 top:
-top_img: https://a0d7da0.webp.li/2024/11/中银万事达卡®扣账卡.png
+top_img: https://a0d7da0.webp.li/2024/11/bochk.png
 comments:
 toc:
 toc_number:
