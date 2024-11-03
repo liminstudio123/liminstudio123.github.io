@@ -7,7 +7,7 @@ background: '#fff'
 date: 2024-11-03 11:12:02
 updated:
 tags: 网站搭建
-categories:
+categories: 网站搭建
 keywords:
 description:
 top:
@@ -30,7 +30,7 @@ ai:
 ---
 
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/hvh28w79Oh0?si=Dko0xYALFckCBw4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
 </div>
 
 <style>
@@ -165,7 +165,7 @@ type: "categories"
 ```yaml
 ---
 title: {{ title }} #【必需】页面标题
-date: {{ date }} #【必需】页面创建日期
+date: #【必需】页面创建日期
 updated: #【可选】页面更新日期
 tags: #【可选】文章标签
 categories: #【可选】文章分类
@@ -202,7 +202,7 @@ background: "#fff" #【可选】文章主色
 ```yaml
 ---
 title: {{ title }} #【必需】页面标题
-date: {{ date }} #【必需】页面创建日期
+date: #【必需】页面创建日期
 type: #【必需】标签、分类等
 updated: #【可选】页面更新日期
 comments: #【可选】显示页面评论模块

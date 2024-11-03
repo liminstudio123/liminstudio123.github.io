@@ -7,7 +7,7 @@ background: '#fff'
 date: 2024-10-30 22:36:52
 updated:
 tags: 国产变eSIM 
-categories:
+categories: 国产变eSIM
 keywords:
 description:
 top:
