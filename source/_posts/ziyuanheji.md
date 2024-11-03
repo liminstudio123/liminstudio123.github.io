@@ -1,33 +1,34 @@
 ---
-title: 利民资源合集（随时更新中）境外银行开户/加密货币交易/U卡/券商交易所/美港股 你想了解的这里都有 #【必需】页面标题
-date: {{ date }} #【必需】页面创建日期
-updated: #【可选】页面更新日期
-tags: [必看攻略, 境外开户, U卡实体卡, 必开券商]  #【可选】文章标签
-categories: 境外开户 #【可选】文章分类
-keywords: 境外开户 #【可选】文章关键字
-description: #【可选】文章描述
-top:  1 置顶
-top_img: https://a0d7da0.webp.li/2024/10/Umbrella-rainbow-colors-beach-sea_2880x1800.jpg #【可选】文章顶部图片
-comments: #【可选】显示文章评论模块(默认 true)
-cover: https://a0d7da0.webp.li/2024/10/Umbrella-rainbow-colors-beach-sea_2880x1800.jpg #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)
-toc: #【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)
-toc_number: #【可选】显示 toc_number(默认为设置中 toc 的 number 配置)
-toc_style_simple: #【可选】显示 toc 简洁模式
-copyright: #【可选】显示文章版权模块(默认为设置中 post_copyright 的 enable 配置)
-copyright_author: #【可选】文章版权模块的文章作者
-copyright_author_href: #【可选】文章版权模块的文章作者链接
-copyright_url: #【可选】文章版权模块的文章作者链接
-copyright_info: #【可选】文章版权模块的版权声明文字
-mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)
-katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)
-aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置
-highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)
-aside: #【可选】显示侧边栏 (默认 true)
-swiper_index: 10 #【可选】首页轮播图配置 index 索引，数字越小越靠前
-top_group_index: 10 #【可选】首页右侧卡片组配置, 数字越小越靠前
-ai: #【可选】文章ai摘要
-background: "#fff" #【可选】文章主色，必须是16进制颜色且有6位，不可缩减，例如#ffffff 不可写成#fff
+title: 利民资源合集（随时更新中）境外银行开户/加密货币交易/U卡/券商交易所/美港股 你想了解的这里都有
+cover: https://a0d7da0.webp.li/2024/10/Umbrella-rainbow-colors-beach-sea_2880x1800.jpg
+swiper_index: 10
+top_group_index: 10
+background: '#fff'
+date: 2024-11-03 11:21:33
+updated:
+tags: [必看攻略, 境外开户, U卡实体卡, 必开券商] 
+categories:
+keywords:
+description:
+top: 10
+top_img: https://a0d7da0.webp.li/2024/10/Umbrella-rainbow-colors-beach-sea_2880x1800.jpg
+comments:
+toc:
+toc_number:
+toc_style_simple:
+copyright:
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
+mathjax:
+katex:
+aplayer:
+highlight_shrink:
+aside:
+ai:
 ---
+
 ### 境外银行账户（全部在家就能开）：
 1. **新加坡华侨银行OCBC** 邀请码 9OX9FDOS，开户送80：  
    [https://youtu.be/1kh0YRL-kAo?si=CH3FLEJu8QFly4Zo](https://youtu.be/1kh0YRL-kAo?si=CH3FLEJu8QFly4Zo)

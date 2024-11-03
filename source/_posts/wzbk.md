@@ -1,19 +1,32 @@
 ---
-title: 第一期：零基础快速搭建个人博客：Hexo + GitHub Pages + Cloudflare Pages 全流程指南，免费部署超详细教程！ #【必需】页面标题
-date: {{ date }} #【必需】页面创建日期
-tags: 网站搭建 #【好用工具】标签、分类、关于、音乐馆、友情链接、相册、相册详情、朋友圈、即刻页面需要配置
-updated: #【可选】页面更新日期
-comments: #【可选】显示页面评论模块(默认 true)
-description: #【可选】页面描述
-keywords: #【可选】页面关键字
-top_img: https://a0d7da0.webp.li/2024/10/1.png #【可选】页面顶部图片
-mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)
-cover: https://a0d7da0.webp.li/2024/10/1.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)
-katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)
-aside: #【可选】显示侧边栏 (默认 true)
-aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置
-highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)
-top_single_background: #【可选】部分页面的顶部模块背景图片
+title: 第一期：零基础快速搭建个人博客：Hexo + GitHub Pages + Cloudflare Pages 全流程指南，免费部署超详细教程！
+cover: https://a0d7da0.webp.li/2024/10/1.png
+swiper_index: 10
+top_group_index: 10
+background: '#fff'
+date: 2024-11-03 11:16:49
+updated:
+tags: 网站搭建
+categories:
+keywords:
+description:
+top:
+top_img: https://a0d7da0.webp.li/2024/10/1.png
+comments:
+toc:
+toc_number:
+toc_style_simple:
+copyright:
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
+mathjax:
+katex:
+aplayer:
+highlight_shrink:
+aside:
+ai:
 ---
 ### 本这是一系列视频，暂时包括，搭建，美化，如何在不同设备上同时管理hexo。至少3期视频，大家可以先订阅我，有问题可以到我的电报群。windows和macOS操作基本一样，我以macOS演示。
 

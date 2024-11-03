@@ -1,20 +1,53 @@
 ---
-title: 第二期：安装AnZhiYu主题并个性化配置 #【必需】页面标题
-date: {{ date }} #【必需】页面创建日期
-tags: 网站搭建 #【好用工具】标签、分类、关于、音乐馆、友情链接、相册、相册详情、朋友圈、即刻页面需要配置
-updated: #【可选】页面更新日期
-comments: #【可选】显示页面评论模块(默认 true)
-description: #【可选】页面描述
-keywords: #【可选】页面关键字
-top_img: https://a0d7da0.webp.li/2024/10/2.png #【可选】页面顶部图片
-mathjax: #【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)
-cover: https://a0d7da0.webp.li/2024/10/2.png #【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)
-katex: #【可选】显示 katex(当设置 katex 的 per_page: false 时，才需要配置，默认 false)
-aside: #【可选】显示侧边栏 (默认 true)
-aplayer: #【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置
-highlight_shrink: #【可选】配置代码框是否展开(true/false)(默认为设置中 highlight_shrink 的配置)
-top_single_background: #【可选】部分页面的顶部模块背景图片
+title: 第二期：安装AnZhiYu主题并个性化配置
+cover: https://a0d7da0.webp.li/2024/10/2.png
+swiper_index: 10
+top_group_index: 10
+background: '#fff'
+date: 2024-11-03 11:12:02
+updated:
+tags: 网站搭建
+categories:
+keywords:
+description:
+top:
+top_img: https://a0d7da0.webp.li/2024/10/2.png
+comments:
+toc:
+toc_number:
+toc_style_simple:
+copyright:
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
+mathjax:
+katex:
+aplayer:
+highlight_shrink:
+aside:
+ai:
 ---
+
+<div class="video-container">
+[up主专用，视频内嵌代码贴在这]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
 # 安装AnZhiYu主题
 
 我的电报群（进群实时交流）：[链接](https://t.me/limingroup)  
