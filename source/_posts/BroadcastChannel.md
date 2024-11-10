@@ -28,6 +28,26 @@ highlight_shrink:
 aside:
 ai:
 ---
+<div class="video-container">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/bDH2J4EwzAY?si=3IT7L5a1jnJi4Gf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+---
 
 ### 我的电报群与频道
 
@@ -147,23 +167,3 @@ NAVS=Title1,URL1;Title2,URL2;Title3,URL3;
     - 关闭频道的 "Restricting Saving Content" 设置
     - 修改环境变量后需重新部署
     - Telegram 会屏蔽一些敏感频道
----
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>

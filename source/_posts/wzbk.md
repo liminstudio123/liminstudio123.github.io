@@ -1,6 +1,6 @@
 ---
 title: 第一期：零基础快速搭建个人博客：Hexo + GitHub Pages + Cloudflare Pages 全流程指南，免费部署超详细教程！
-cover: https://a0d7da0.webp.li/2024/10/1.png
+cover: https://13fe9ff.webp.li/2024/11/9b071e02291bbdb5a3244fe8181e1a41.jpg
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -11,7 +11,7 @@ categories: 网站搭建
 keywords:
 description:
 top:
-top_img: https://a0d7da0.webp.li/2024/10/1.png
+top_img: https://13fe9ff.webp.li/2024/11/9b071e02291bbdb5a3244fe8181e1a41.jpg
 comments:
 toc:
 toc_number:

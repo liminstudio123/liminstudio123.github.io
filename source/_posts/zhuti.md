@@ -1,6 +1,6 @@
 ---
 title: 第二期：安装AnZhiYu主题并个性化配置
-cover: https://a0d7da0.webp.li/2024/10/2.png
+cover: https://13fe9ff.webp.li/2024/11/61fa4aa741c262f962ffabfd7b38d445.jpg
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -11,7 +11,7 @@ categories: 网站搭建
 keywords:
 description:
 top:
-top_img: https://a0d7da0.webp.li/2024/10/2.png
+top_img: https://13fe9ff.webp.li/2024/11/61fa4aa741c262f962ffabfd7b38d445.jpg
 comments:
 toc:
 toc_number:
