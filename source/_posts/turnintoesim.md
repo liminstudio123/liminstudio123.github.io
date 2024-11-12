@@ -28,6 +28,28 @@ highlight_shrink:
 aside:
 ai:
 ---
+
+<div class="video-container">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/IKsJqeGfzUM?si=eT8xcsuDn-c1qlzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+---
 # 联系方式
 
 - **我的电报群**（进群实时交流）：[https://t.me/limingroup](https://t.me/limingroup)
@@ -118,23 +140,3 @@ ai:
 
 - **电报群**：[https://t.me/limingroup](https://t.me/limingroup)
 - **官方频道**：[https://t.me/liminchannel](https://t.me/liminchannel)
-
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>

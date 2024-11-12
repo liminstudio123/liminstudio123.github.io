@@ -86,6 +86,28 @@ ai:
 
 ---
 
+<div class="video-container">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/vTDzytZE9iY?si=OXa0Bk-hoHp5Wfe-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+---
+
+
 ### 工具
 
 支持 IPTV 流的应用程序。
@@ -138,25 +160,3 @@ ai:
 - 请注意，部分链接可能会有更新或失效，建议定期检查。
 
 如果您测试过某些源的效果，请留言分享您的使用体验！
----
-
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
----
