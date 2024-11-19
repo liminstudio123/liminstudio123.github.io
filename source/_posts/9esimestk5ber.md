@@ -27,7 +27,31 @@ aplayer:
 highlight_shrink:
 aside:
 ai:
+
 ---
+
+<div class="video-container">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/v6viS3XmdW8?si=iOLhTmlMFCrMm9dq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+---
+
 我的电报群（进群实时交流）：[点击加入](https://t.me/limingroup)  
 我的电报官方频道：[点击关注](https://t.me/liminchannel)  
 
@@ -83,14 +107,14 @@ ai:
 
 ### **推荐的保号卡**
 
-- **Tello（美国电话）**：几乎可以注册任何App、网站或银行  
+- **Tello（美国电话，开户送10美元）**：几乎可以注册任何App、网站或银行  
   - [介绍视频](https://youtu.be/TWPa8OWu22E?si=wi0u8e0M7DVypO8y)  
 
 ---
 
 ### **推荐的流量卡**
 
-1. **Redteago**：性价比超级高  
+1. **Redteago**：性价比超级高 
    - 提示：只能在网页下单，不能在App下单，否则无法生成二维码  
    - [介绍视频](https://youtu.be/PM2GR1hU804?si=0enGzFvbbEI25beb)  
 
@@ -98,23 +122,3 @@ ai:
    - [介绍视频](https://youtu.be/fb9Exmn-im4?si=qORd9X4X_ZfD0FCk)  
 
 ---
-
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
