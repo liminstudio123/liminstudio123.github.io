@@ -28,6 +28,28 @@ highlight_shrink:
 aside:
 ai:
 ---
+
+<div class="video-container">
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/8U1BGVgN9oI?si=6xOTxiEWd4T-usN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+---
+
 # **Crydit 万事达卡使用指南**
 
 ## **我的电报群与频道**
@@ -44,10 +66,10 @@ ai:
 
 ### **费用与手续费**
 - **充值手续费**：  
-  - **600 USDT以上**：1.5% + 12 USDT  
+  - **600 USDT以上**：1.5% + 12 USDT  （电报上找到我，看是否可以退12U，注意！活动随时结束）
   - **600 USDT以下**：1.5% + 12 USDT  
 - **ATM提现**：Crydit平台不收手续费，但ATM可能收取一定费用（大陆地区为 **2.5%** 手续费）。  
-- **刷卡消费**：手续费 **0.6%**，无消费金额限制。  
+- **刷卡消费**：手续费 **0.6%** ，无消费金额限制。  
 - **绑定支付平台**：如微信、支付宝支付时，小于200元免手续费，超过200元需支付 **3%** 手续费。
 
 ### **其他信息**
@@ -115,7 +137,39 @@ Crydit 万事达卡覆盖广泛的消费场景，以下是部分应用方向：
    - 支付方式：仅支持 **TRC20 网络支付**。  
 2. **注册与 KYC 认证**：  
    - 提交身份证、护照或驾照等身份验证材料。  
-   - 提供纸质版 **英文居住证明**（如银行对账单、水电费账单等），翻译需盖章认证（可通过淘宝等平台完成），务必让淘宝翻译完了打印出来，发给你扫描的PDF，通过率最高
+   - 提供纸质版 **英文居住证明**（如银行对账单、水电费账单等），翻译需盖章认证（可通过淘宝等平台完成）， **务必让淘宝翻译完了打印出来，发给你扫描的PDF** ，通过率最高
+
+# 地址证明详细要求
+
+## 必须包含：
+1. **申请人全名和完整住址**  
+   *(Owner full name and full home address)*
+2. **发行日期**  
+   *(Issue date)*
+3. **识别发行机构的数据**  
+   *(Issuing authority identification data)*
+
+---
+
+## 文件要求：必须是英文版本，去淘宝翻译盖章，打印后扫描PDF发给你！
+1. **文件须在上传日期前 3 个月内发行**  
+   *(The document was issued less than 3 months before the upload date)*
+
+2. **以下文件类型可接受：**
+   - 公用事业账单（燃气/电力/水）  
+     *(Utility bill – gas/electricity/water)*
+   - 银行或信用卡对账单  
+     *(Bank or credit card statement)*
+   - 税单  
+     *(Tax bill)*
+   - 驾驶执照  
+     *(Driving license)*  
+     > **注意：** 如果驾驶执照已被用作身份证明，则不能作为地址证明使用。  
+     > *(If the driver's license has been used as an identity proof, it cannot be used as an address proof)*
+
+---
+
+
    - KYC大概2-3个工作日结束，留意邮箱，中途可能会让你补充资料。有人2个月才通过kyc，比如我！
    - **注意事项**：认证过程中 **请勿切换网络或退出页面**，否则可能认证失败，需要重新提交。  
 
@@ -144,22 +198,3 @@ Crydit 万事达卡适合需要高频、大额消费的用户，特别适用于�
 
 **赶快通过注册链接申请，体验无忧消费的便利吧！**
 
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
