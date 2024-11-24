@@ -157,7 +157,7 @@ jobs:
 ## 3. 创建 Vercel 数据库
 
 1. 进入[Vercel Storage 页面](https://vercel.com/dashboard/stores)。
-2. 点击 ***Create Database**，选择***Neon**，设置区域为 **Washington, DC., USA - iad1**，创建免费数据库。
+2. 点击 ***Create Database**，选择*   **Neon**  ，设置区域为 **Washington, DC., USA - iad1**，创建免费数据库。
 
 ## 4. 绑定项目
 
