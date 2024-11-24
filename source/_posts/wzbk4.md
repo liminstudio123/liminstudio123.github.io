@@ -73,13 +73,21 @@ updated: '2024-11-24T15:58:28.998+08:00'
 
 1. 打开 **Personal settings** -> **Developer settings** -> **Personal access tokens**
 2. 设置权限为 **repo** 和 **public repo**
+
+![图示1](https://13fe9ff.webp.li/2024/11/313f2ca0d7d3ea811d7e7be8ad6bcd4b.png)
+
 3. 保存生成的 Token（丢失后无法恢复，只能重新生成）
 4. 在博客代码仓库的 **Secrets** 中添加名为 **PERSONAL_TOKEN** 的变量，后续步骤将用到。
+
+![](https://13fe9ff.webp.li/2024/11/f69e8dd9266ba1336ddddff00a67ffc6.png)
 
 ## 2. 创建 GitHub Actions
 
 1. 在博客仓库页面，点击 **Actions**。
 2. 选择 **Set up a workflow yourself**。
+
+![](https://13fe9ff.webp.li/2024/11/b425061c44375abea8ca5a8a01091038.png)
+
 3. 输入以下 YAML 配置并点击 **Start commit** ：
 
 ```yaml
@@ -157,11 +165,11 @@ jobs:
 ## 3. 创建 Vercel 数据库
 
 1. 进入[Vercel Storage 页面](https://vercel.com/dashboard/stores)。
-2. 点击 ***Create Database**，选择*   **Neon**  ，设置区域为 **Washington, DC., USA - iad1**，创建免费数据库。
+2. 点击 ***Create Database**，选择   **Neon**  ，设置区域为 **Washington, DC., USA - iad1**，创建免费数据库。
 
 ## 4. 绑定项目
 
-在 ****Projects** 页面选择对应项目，点击** **Connect Project** 进行绑定。
+在 **Projects** 页面选择对应项目，点击 **Connect Project** 进行绑定。
 
 ## 5. 部署 Qexo
 
@@ -171,8 +179,12 @@ jobs:
 
 # 初始化配置
 
-## GitHub 配置
+![](https://13fe9ff.webp.li/2024/11/d14a6a28fa42dc905ad1f9572d280abb.png)
 
+![](https://13fe9ff.webp.li/2024/11/8781b5e062a34509ccf39ed0000e8033.png)
+
+## GitHub 配置
+![](https://13fe9ff.webp.li/2024/11/7f4e9a472b66f4a2b73ae1c8e035b4ef.png)
 填写博客源码所在仓库的分支名称，例如：
 
 ```
@@ -195,12 +207,25 @@ wrq_P8sYPlYA9fjMlOPEYSKA84xxxxxxxxxxxxxx
 path/
 ```
 
+![](https://13fe9ff.webp.li/2024/11/f2f7c6b57196afa6652292807698db91.png)
+
+![](https://13fe9ff.webp.li/2024/11/5e4c876cd000a6d5f5da45bb256c963e.png)
+
+![](https://13fe9ff.webp.li/2024/11/bcc3ab289c7a355ed8116d92faddba80.png)
+
+
 ## Vercel 配置
 
 * **VERCEL\_TOKEN**：在[Vercel 账户设置](https://vercel.com/account/tokens) 中生成。
 * **PROJECT\_ID**：在 **Project Settings -> General -> Project ID** 中找到。
 
 配置完成后，即可登录后台管理博客内容。
+
+![](https://13fe9ff.webp.li/2024/11/df6b8e762d048854683e5e31f6e262f2.png)
+
+![](https://13fe9ff.webp.li/2024/11/2fa7cd4b16b469345b8e628d88affae2.png)
+
+![](https://13fe9ff.webp.li/2024/11/6a16b8185a435cf9b807dbcc894d92e1.png)
 
 ---
 
