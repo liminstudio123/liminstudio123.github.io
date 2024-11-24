@@ -1049,7 +1049,7 @@ home_top:
   timemode: date #date/updated
   title: 生活明朗
   subTitle: 万物可爱。
-  siteText: blog.limin.studio
+  siteText: limin.studio
   category:
     - name: 境外开户
       path: /categories/境外开户/
