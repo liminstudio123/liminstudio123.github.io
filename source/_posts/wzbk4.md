@@ -132,8 +132,6 @@ jobs:
           publish_dir: ./blog/public
           external_repository: username/username.github.io # 更改为你的 GitHub Pages 仓库, username 是你的用户名
           publish_branch: main # GitHub Pages 分支
-
-
 ```
 
 参考文档：
