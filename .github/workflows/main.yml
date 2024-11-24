@@ -1,51 +1,50 @@
-name: 自动部署 Hexo
+name: Deploy Hexo to GitHub Pages
 
 on:
   push:
     branches:
-      - hexo
+      - hexo # 或你使用的默认分支名称
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [10.x]
 
     steps:
-      - name: 开始运行
-        uses: actions/checkout@v1
+      - name: Checkout blog source
+        uses: actions/checkout@v2
+        with:
+          path: blog
 
-      - name: 设置 Node.js ${{ matrix.node-version }}
+      - name: Set up Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: "16" # 设置 Node.js 版本
 
-      - name: 安装 Hexo CI
-        run: 
-          export TZ='Asia/Shanghai'
-          npm install hexo-cli -g
-
-      - name: 缓存
-        uses: actions/cache@v1
-        id: cache-dependencies
+      - name: Cache dependencies
+        uses: actions/cache@v2
         with:
           path: node_modules
-          key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
-      - name: 安装插件
-        if: steps.cache-dependencies.outputs.cache-hit != 'true'
-        run: 
-          npm install
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./blog
 
-      - name: 部署博客
-        run: 
-          hexo clean && hexo g && hexo douban && gulp
-          cd ./public
-          git init
-          git config user.name "${{secrets.GIT_NAME}}"
-          git config user.email "${{secrets.GIT_EMAIL}}"
-          git add .
-          git commit -m "Update"
-          git push --force --quiet "https://${{secrets.GH_TOKEN}}@${{secrets.GH_REF}}" master:master
-          git push --force --quiet "https://${{secrets.CD_TOKEN}}@${{secrets.CD_REF}}" master:master
+      - name: Install Hexo CLI
+        run: npm install -g hexo-cli
+        working-directory: ./blog
+
+      - name: Generate static pages
+        run: hexo generate
+        working-directory: ./blog
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./blog/public
+          external_repository: liminstudio123/liminstudio123.github.io # 更改为你的 GitHub Pages 仓库, username 是你的用户名
+          publish_branch: main # GitHub Pages 分支
+
