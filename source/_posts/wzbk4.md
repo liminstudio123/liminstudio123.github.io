@@ -30,7 +30,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://13fe9ff.webp.li/2024/11/3c56959bdb4ecac1019d0e7878dd26d4.png
-updated: '2024-11-24T15:58:28.998+08:00'
+updated: '2024-11-24T22:18:12.335+08:00'
 ---
 # 我的电报群和频道
 
@@ -151,16 +151,16 @@ jobs:
 
 # 二、通过 Vercel 部署 Qexo
 
-## 1. 修改 Node.js 版本
-
-由于 **[Vercel 的已知问题](https://vercel.com/docs/functions/runtimes/python#python-dependencies)，需将项目的 Node.js 版本调整为** **18.x**。
-路径：**Settings -> General -> Node.js Version**
-
-## 2. 一键部署
+## 1. 一键部署
 
 点击以下按钮完成一键部署：[Vercel 一键部署](https://vercel.com/new/clone?repository-url=https://github.com/am-abudu/Qexo)
 
 > **注意**：首次部署可能会出现错误提示，可忽略并继续后续步骤。
+
+## 2. 修改 Node.js 版本
+
+由于 **[Vercel 的已知问题](https://vercel.com/docs/functions/runtimes/python#python-dependencies)，需将项目的 Node.js 版本调整为** **18.x**。
+路径：**Settings -> General -> Node.js Version**
 
 ## 3. 创建 Vercel 数据库
 
@@ -184,6 +184,7 @@ jobs:
 ![](https://13fe9ff.webp.li/2024/11/8781b5e062a34509ccf39ed0000e8033.png)
 
 ## GitHub 配置
+
 ![](https://13fe9ff.webp.li/2024/11/7f4e9a472b66f4a2b73ae1c8e035b4ef.png)
 填写博客源码所在仓库的分支名称，例如：
 
@@ -212,7 +213,6 @@ path/
 ![](https://13fe9ff.webp.li/2024/11/5e4c876cd000a6d5f5da45bb256c963e.png)
 
 ![](https://13fe9ff.webp.li/2024/11/bcc3ab289c7a355ed8116d92faddba80.png)
-
 
 ## Vercel 配置
 
