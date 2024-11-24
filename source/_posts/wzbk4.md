@@ -80,7 +80,7 @@ updated: '2024-11-24T15:58:28.998+08:00'
 
 1. 在博客仓库页面，点击 **Actions**。
 2. 选择 **Set up a workflow yourself**。
-3. 输入以下 YAML 配置并点击 Start commit：
+3. 输入以下 YAML 配置并点击 **Start commit** ：
 
 ```yaml
 name: Deploy Hexo to GitHub Pages
