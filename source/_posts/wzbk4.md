@@ -30,7 +30,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://13fe9ff.webp.li/2024/11/3c56959bdb4ecac1019d0e7878dd26d4.png
-updated: '2024-11-24T15:48:19.274+08:00'
+updated: '2024-11-24T15:58:28.998+08:00'
 ---
 # 我的电报群和频道
 
@@ -125,7 +125,6 @@ jobs:
           publish_branch: main # 指定发布分支
 ```
 
-
 参考文档：
 
 * [Hexo 自动化部署教程](https://www.oplog.cn/archives/24998.html)
@@ -137,7 +136,7 @@ jobs:
 
 ## 1. 修改 Node.js 版本
 
-由于** **[Vercel 的已知问题](https://vercel.com/docs/functions/runtimes/python#python-dependencies)，需将项目的 Node.js 版本调整为** ****18.x**。
+由于 **[Vercel 的已知问题](https://vercel.com/docs/functions/runtimes/python#python-dependencies)，需将项目的 Node.js 版本调整为** **18.x**。
 路径：**Settings -> General -> Node.js Version**
 
 ## 2. 一键部署
@@ -148,16 +147,16 @@ jobs:
 
 ## 3. 创建 Vercel 数据库
 
-1. 进入** **[Vercel Storage 页面](https://vercel.com/dashboard/stores)。
-2. 点击** ****Create Database**，选择** ****Neon**，设置区域为** ****Washington, DC., USA - iad1**，创建免费数据库。
+1. 进入[Vercel Storage 页面](https://vercel.com/dashboard/stores)。
+2. 点击 ****Create Database**，选择** ****Neon**，设置区域为** **Washington, DC., USA - iad1**，创建免费数据库。
 
 ## 4. 绑定项目
 
-在** ****Projects** 页面选择对应项目，点击** ****Connect Project** 进行绑定。
+在 ****Projects** 页面选择对应项目，点击** **Connect Project** 进行绑定。
 
 ## 5. 部署 Qexo
 
-回到项目页面，点击** ****Redeploy** 开始部署。部署完成后，无报错即可访问域名进入初始化页面。
+回到项目页面，点击**Redeploy** 开始部署。部署完成后，无报错即可访问域名进入初始化页面。
 
 ---
 
@@ -189,8 +188,8 @@ path/
 
 ## Vercel 配置
 
-* **VERCEL\_TOKEN**：在** **[Vercel 账户设置](https://vercel.com/account/tokens) 中生成。
-* **PROJECT\_ID**：在** ****Project Settings -> General -> Project ID** 中找到。
+* **VERCEL\_TOKEN**：在[Vercel 账户设置](https://vercel.com/account/tokens) 中生成。
+* **PROJECT\_ID**：在 **Project Settings -> General -> Project ID** 中找到。
 
 配置完成后，即可登录后台管理博客内容。
 
