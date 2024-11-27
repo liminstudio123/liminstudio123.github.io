@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://a0d7da0.webp.li/2024/11/SailyeSIM.png
+cover: https://a0d7da0.webp.li/2024/11/bokeyong.png
 date: '2024-11-27T21:05:56.496529+08:00'
 description: null
 highlight_shrink: null
@@ -26,8 +26,8 @@ toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: https://a0d7da0.webp.li/2024/11/SailyeSIM.png
-updated: '2024-11-27T21:05:58.566+08:00'
+top_img: https://a0d7da0.webp.li/2024/11/bokeyong.png
+updated: '2024-11-27T21:13:46.542+08:00'
 ---
 #### **什么是 Saily？**
 
