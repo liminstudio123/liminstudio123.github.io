@@ -27,7 +27,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/11/bokeyong.png
-updated: '2024-11-27T21:13:46.542+08:00'
+updated: '2024-11-29T18:55:14.562+08:00'
 ---
 #### **什么是 Saily？**
 
@@ -104,7 +104,7 @@ Saily 是一款由著名网络安全团队 **NordVPN** 开发的全球 eSIM 服�
 [**https://go.saily.site/aff\_c?offer\_id=101&aff\_id=6581**](https://go.saily.site/aff_c?offer_id=101&aff_id=6581)
 
 **5% 折扣码：**
-**Special5**
+**limin**
 
 ---
 
