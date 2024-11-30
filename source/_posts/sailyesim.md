@@ -27,8 +27,27 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/11/bokeyong.png
-updated: '2024-11-29T18:55:14.562+08:00'
+updated: '2024-11-30T11:22:30.382+08:00'
 ---
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/zuPMMlvNBZk?si=N32s9QuDrbbdRoke" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 #### **什么是 Saily？**
 
 Saily 是一款由著名网络安全团队 **NordVPN** 开发的全球 eSIM 服务应用。作为 NordVPN 家族的一员，Saily 确保了强大的技术背景和最高级别的安全性，为用户提供稳定、快捷、安全的网络服务。
