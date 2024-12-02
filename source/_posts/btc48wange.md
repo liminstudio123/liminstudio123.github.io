@@ -160,3 +160,10 @@ updated: '2024-12-02T14:24:51.939+08:00'
 没有嘲笑，向48万哥致敬。欢迎大家评论区分享自己的经历。
 
 ![QQ20241202-141818.png](https://a0d7da0.webp.li/Qexo/24/12/39ace4225d0859d5f7cbea283332c4bd.png)
+
+
+最后，再附上一张图，2016年加密货币市值前十。
+
+评论区说出你的故事吧
+
+![328cf6a20cf431ad91b31d1b4336acaf2edd986e.jpg](https://a0d7da0.webp.li/Qexo/24/12/c6b731c00b468b5e4ffca3d87146b3da.jpg)
