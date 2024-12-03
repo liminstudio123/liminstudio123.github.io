@@ -28,10 +28,10 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/12/bitcon480k.png
-updated: '2024-12-02T14:24:51.939+08:00'
+updated: '2024-12-03T11:28:23.166+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4114ektrhQ?si=wMYGEqCr3S9aiA8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -66,11 +66,9 @@ updated: '2024-12-02T14:24:51.939+08:00'
 
 ![getimg (17).jpg](https://a0d7da0.webp.li/Qexo/24/12/5f8bc9b4eceee7b4d2646adf2c9c9583.jpg)
 
-
 ![getimg (18).jpg](https://a0d7da0.webp.li/Qexo/24/12/3c6fb09f13f8acc7302a08f9b3a4c976.jpg)
 
 ![getimg (19).jpg](https://a0d7da0.webp.li/Qexo/24/12/34e512a1728b96cbeec7a1d36d13a51f.jpg)
-
 
 但现实并未如他所愿。很快，“门头沟”交易所暴雷、各国纷纷打压比特币的负面消息接踵而至，比特币价格从5000元暴跌至2000元。“48万哥”的资产大幅缩水，吧友们的冷嘲热讽铺天盖地而来：
 
@@ -97,7 +95,6 @@ updated: '2024-12-02T14:24:51.939+08:00'
 被家人发现了
 
 ![getimg (23).jpg](https://a0d7da0.webp.li/Qexo/24/12/36fb119d5ab1abacdf169791910052bd.jpg)
-
 
 三个月后，想要放弃了
 
@@ -129,7 +126,6 @@ updated: '2024-12-02T14:24:51.939+08:00'
 
 ![getimg (31).jpg](https://a0d7da0.webp.li/Qexo/24/12/3a999645da0635b97b38b0703442fb7c.jpg)
 
-
 **现在比特币的价格差不多10万美元一枚了，100个比特币价格就是7700多万人民币，是48万的152倍，这完全可以跳跃阶级了，实在是可惜了**
 
 #### 很多人笑话48万哥，像不像不被别人理解的你
@@ -146,21 +142,17 @@ updated: '2024-12-02T14:24:51.939+08:00'
 
 你我都不是48万哥，可是谁又不是48万哥呢？大家在炒币的时候谁有没有卖飞过呢？大家都懂心态的重要，可是真正能做到稳定持币，波澜不惊的又有多少人的？币圈考验的东西太多了。
 
-
 “48万哥”的经历引发了无数投资者的反思。他自己总结道：
 
 > “黎明前的黑暗没能坚持住，万里长征倒在了最后一步。”
 
-
 #### **后记：致那些冷嘲热讽的人**
-
 
 当初有很多人笑话他太傻，只看到了一个评论说，以后大家会仰慕他的，这个人真的说对了！
 
 没有嘲笑，向48万哥致敬。欢迎大家评论区分享自己的经历。
 
 ![QQ20241202-141818.png](https://a0d7da0.webp.li/Qexo/24/12/39ace4225d0859d5f7cbea283332c4bd.png)
-
 
 最后，再附上一张图，2016年加密货币市值前十。
 
