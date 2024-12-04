@@ -27,27 +27,8 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/12/talkatone1.png
-updated: '2024-12-04T14:09:18.802+08:00'
+updated: '2024-12-04T14:29:37.832+08:00'
 ---
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
 加入我的电报群和官方频道，获取更多实时信息：
 
 * **实时交流群：[https://t.me/limingroup](https://t.me/limingroup)**
