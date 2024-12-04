@@ -29,8 +29,28 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/12/talkatone1.png
-updated: '2024-12-04T16:15:43.573+08:00'
+updated: '2024-12-04T22:33:25.694+08:00'
 ---
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/By-mwSaRQIo?si=7qH5m8wtOGVrtYNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 加入我的电报群和官方频道，获取更多实时信息：
 
 * **实时交流群：[https://t.me/limingroup](https://t.me/limingroup)**
@@ -136,7 +156,6 @@ Talkatone 是一款美国免费电话应用，注册后即可获得一个免费�
   如果需要将 Talkatone 号码转移到其他地方，可以通过邮件联系 Talkatone 支持团队（[support@talkatone.com](mailto:support@talkatone.com)），并提供 PIN。
 * **检测虚拟号码与实体号码：**
   通过 [免费运营商查询](https://freecarrierlookup.com/) 输入号码，可以判断该号码是否为实体号码。如果显示“y”，说明是实体号码；如果显示“n”，则为虚拟号码。
-
 
 ### **国际拨打电话格式说明**
 
