@@ -19,7 +19,9 @@ katex: null
 keywords: null
 mathjax: null
 swiper_index: 10
-tags: []
+tags:
+- 美国eSIM
+- eSIM保号卡
 title: 免费获取美国电话号码神器！Talkatone 超详细教程，轻松注册，畅享全球通话与短信，无需月费！
 toc: null
 toc_number: null
