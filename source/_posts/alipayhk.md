@@ -20,14 +20,14 @@ keywords: null
 mathjax: null
 swiper_index: 10
 tags: []
-title: ipayHK：支持大陆86手机号注册，可大陆扫码支付，港币回国新路子
+title: AlipayHK：支持大陆86手机号注册，可大陆扫码支付，港币回国新路子
 toc: null
 toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/12/aipayhk1.png
-updated: '2024-12-05T13:22:46.316+08:00'
+updated: '2024-12-05T13:24:44.770+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
