@@ -20,7 +20,7 @@ keywords: null
 mathjax: null
 swiper_index: 10
 tags: []
-title: AlipayHK：支持大陆86手机号注册，可大陆扫码支付，港币回国新路子
+title: AlipayHK：支持大陆86手机号注册，可大陆扫码支付，港币回国新路子，加密货币U卡直接绑定消费
 toc: null
 toc_number: null
 toc_style_simple: null
@@ -66,6 +66,7 @@ updated: '2024-12-05T13:24:44.770+08:00'
 2. 选择 **“卡支付”**，然后输入大陆多币种信用卡信息（Visa 或 MasterCard）。
 3. 选择最下面的 **“连接卡并支付”**，完成绑定。
 4. 绑定成功后，即可使用 AlipayHK 扫码消费。
+5. 可以绑定各种加密货币U卡，例如港币U卡[THpay]([https://](https://www.thpay.org/?channelCode=4261595))，和[Pokepay]([https://](https://app.pokepay.cc/pages/passport/invitation?r=141897))
 
 群友绑定的银行卡（来自群友分享有Wise，N26）
 
