@@ -70,7 +70,7 @@ updated: '2024-12-05T13:24:44.770+08:00'
 
 群友绑定的银行卡（来自群友分享有Wise，N26）
 
-![QQ20241205-134125.png](https://a0d7da0.webp.li/Qexo/24/12/136a51109a2deb9fd0c47d78458b0acd.png)
+![65464081.png](https://a0d7da0.webp.li/Qexo/24/12/5ff3f8d255e44b3f035c7ca1745d779a.png)
 
 #### **注意事项：额度限制**
 
