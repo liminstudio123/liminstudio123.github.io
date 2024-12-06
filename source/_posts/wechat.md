@@ -19,7 +19,8 @@ katex: null
 keywords: null
 mathjax: null
 swiper_index: 10
-tags: []
+tags:
+- 好用工具
 title: 极速注册WeChat，绑定香港银行卡，开启跨境支付+国际通话新时代
 toc: null
 toc_number: null
