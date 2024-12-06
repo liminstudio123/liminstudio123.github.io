@@ -28,7 +28,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/12/wechat.png
-updated: '2024-12-06T13:25:39.375+08:00'
+updated: '2024-12-06T15:16:38.678+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
@@ -51,6 +51,13 @@ updated: '2024-12-06T13:25:39.375+08:00'
 </style>
 
 ## **如何注册并使用WeChat的全方位指南**
+
+加入我的电报群和官方频道，获取更多实时信息：
+
+* **实时交流群：[https://t.me/limingroup](https://t.me/limingroup)**
+* **官方频道：[https://t.me/liminchannel](https://t.me/liminchannel)**
+
+---
 
 微信的国际版——WeChat，不仅是一款聊天工具，更是一个功能丰富的应用，尤其适合境外用户或需要跨境支付的朋友。它的独特功能包括香港版WeChat Pay（WeChat Pay HK）和低费率国际通话服务（WeChat Out）。以下是注册、激活及使用WeChat的详细步骤与功能解析。
 
@@ -85,14 +92,9 @@ updated: '2024-12-06T13:25:39.375+08:00'
 
 ![1.png](https://a0d7da0.webp.li/Qexo/24/12/a48b8c12060378e722a52d5c42cdf97e.png)
 
-
-
 ![2.png](https://a0d7da0.webp.li/Qexo/24/12/5f604a03bd2f5f3b33b23fc41b314348.png)
 
-
 ![3.png](https://a0d7da0.webp.li/Qexo/24/12/c55e6e76d29693cea92f0f5af9f64658.png)
-
-
 
 ---
 
@@ -114,16 +116,11 @@ updated: '2024-12-06T13:25:39.375+08:00'
 
 ![5.png](https://a0d7da0.webp.li/Qexo/24/12/a92baf9cff8622f79c01a6bd63ad724b.png)
 
-
 ![6.png](https://a0d7da0.webp.li/Qexo/24/12/570e64090d47cb74ff0da468f1d0e415.png)
-
 
 ![7.png](https://a0d7da0.webp.li/Qexo/24/12/6cd093645e32794314577e8c3c5ec3c8.png)
 
-
 ![8.png](https://a0d7da0.webp.li/Qexo/24/12/73fc3e75ea72171f63c78f9e22df4647.png)
-
-
 
 ---
 
@@ -140,7 +137,6 @@ updated: '2024-12-06T13:25:39.375+08:00'
 ---
 
 ![9.png](https://a0d7da0.webp.li/Qexo/24/12/4ecc6790b8e3f877c2940db21ae3224e.png)
-
 
 ![10.png](https://a0d7da0.webp.li/Qexo/24/12/e4d9a1fafbb68900a8d8df51b0c4594f.png)
 
@@ -181,3 +177,4 @@ updated: '2024-12-06T13:25:39.375+08:00'
 
 **总结**
 WeChat不仅是微信的国际版本，更是针对海外用户量身打造的实用工具。通过eSIM注册WeChat、激活WeChat Pay HK和WeChat Out，你将获得一套高效、便捷的跨境支付与通话方案。如果你需要绑定香港银行卡或享受国际长途的超低费率，WeChat绝对是你的首选工具！
+
