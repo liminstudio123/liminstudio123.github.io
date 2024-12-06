@@ -27,7 +27,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/12/wechat.png
-updated: '2024-12-06T11:40:06.626+08:00'
+updated: '2024-12-06T13:25:39.375+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
@@ -48,8 +48,6 @@ updated: '2024-12-06T11:40:06.626+08:00'
     height: 100%;
 }
 </style>
-
-
 
 ## **如何注册并使用WeChat的全方位指南**
 
@@ -84,6 +82,17 @@ updated: '2024-12-06T11:40:06.626+08:00'
    4. 若提示手机号已绑定微信账号，点击“不是我”，继续注册。
    5. 按提示完成注册，即可获得WeChat账号。
 
+![1.png](https://a0d7da0.webp.li/Qexo/24/12/a48b8c12060378e722a52d5c42cdf97e.png)
+
+
+
+![2.png](https://a0d7da0.webp.li/Qexo/24/12/5f604a03bd2f5f3b33b23fc41b314348.png)
+
+
+![3.png](https://a0d7da0.webp.li/Qexo/24/12/c55e6e76d29693cea92f0f5af9f64658.png)
+
+
+
 ---
 
 ### **WeChat Pay HK的激活与使用**
@@ -100,6 +109,21 @@ updated: '2024-12-06T11:40:06.626+08:00'
    * 未认证用户：余额上限为3,000港币，年消费限额25,000港币。
    * 实名认证需香港居民身份证。
 
+![4.png](https://a0d7da0.webp.li/Qexo/24/12/999daab5a7f79a7b20d52fe4f5868850.png)
+
+![5.png](https://a0d7da0.webp.li/Qexo/24/12/a92baf9cff8622f79c01a6bd63ad724b.png)
+
+
+![6.png](https://a0d7da0.webp.li/Qexo/24/12/570e64090d47cb74ff0da468f1d0e415.png)
+
+
+![7.png](https://a0d7da0.webp.li/Qexo/24/12/6cd093645e32794314577e8c3c5ec3c8.png)
+
+
+![8.png](https://a0d7da0.webp.li/Qexo/24/12/73fc3e75ea72171f63c78f9e22df4647.png)
+
+
+
 ---
 
 ### **WeChat Out：低费率国际通话服务**
@@ -113,6 +137,11 @@ updated: '2024-12-06T11:40:06.626+08:00'
    * 推荐通过Club SIM氪金翼套餐赠送的50港币进行充值，相当于免费使用。
 
 ---
+
+![9.png](https://a0d7da0.webp.li/Qexo/24/12/4ecc6790b8e3f877c2940db21ae3224e.png)
+
+
+![10.png](https://a0d7da0.webp.li/Qexo/24/12/e4d9a1fafbb68900a8d8df51b0c4594f.png)
 
 ### **香港eSIM解决方案：注册WeChat的关键**
 
