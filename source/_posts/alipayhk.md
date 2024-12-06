@@ -28,7 +28,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/12/aipayhk1.png
-updated: '2024-12-06T15:09:43.908+08:00'
+updated: '2024-12-06T15:16:14.829+08:00'
 ---
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s83R43AtujQ?si=tTXv3l7hSwXVdONY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -51,6 +51,13 @@ updated: '2024-12-06T15:09:43.908+08:00'
 </style>
 
 ### **如何使用 AlipayHK 绑定大陆银行卡**
+
+加入我的电报群和官方频道，获取更多实时信息：
+
+* **实时交流群：[https://t.me/limingroup](https://t.me/limingroup)**
+* **官方频道：[https://t.me/liminchannel](https://t.me/liminchannel)**
+
+---
 
 #### **步骤 1：下载 AlipayHK**
 
@@ -83,3 +90,4 @@ updated: '2024-12-06T15:09:43.908+08:00'
 ![1.png](https://a0d7da0.webp.li/Qexo/24/12/b6810b86d3e67adf429c3937fc51dc6b.png)
 
 ![2.png](https://a0d7da0.webp.li/Qexo/24/12/f6314d621df0e80955df7940f0ba13cc.png)
+
