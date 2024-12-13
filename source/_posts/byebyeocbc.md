@@ -19,7 +19,10 @@ katex: null
 keywords: null
 mathjax: null
 swiper_index: 10
-tags: []
+tags:
+- 境外开户
+- 必开券商
+- 港美股券商
 title: Byebye OCBC，关乎前应该这样做！新加坡长桥开户送1300港币！
 toc: null
 toc_number: null
@@ -27,10 +30,10 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/bybyocbc.png
-updated: '2024-12-13T15:44:01.385+08:00'
+updated: '2024-12-13T15:51:07.257+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJtNv6VeD18?si=kV-uBzo3K1WjD6kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -115,3 +118,4 @@ updated: '2024-12-13T15:44:01.385+08:00'
     [点击开户](https://ibkr.com/referral/qian299)
 13. **嘉信理财：**
     [点击开户](https://www.schwab.com/client-referral?refrid=REFERCQN8KUFE)
+
