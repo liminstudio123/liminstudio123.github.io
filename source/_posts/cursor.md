@@ -28,10 +28,10 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/CURSOR.png
-updated: '2024-12-18T14:21:47.360+08:00'
+updated: '2024-12-19T19:49:57.971+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xHFJ0qyfUew?si=jNWOG_HFJd4C9IrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -70,6 +70,8 @@ updated: '2024-12-18T14:21:47.360+08:00'
 
 **我的电报群（进群实时交流）：**[https://t.me/limingroup](https://t.me/limingroup)
 **我的电报官方频道：**[https://t.me/liminchannel](https://t.me/liminchannel)
+
+### **阿里巴巴矢量图库：**[https://www.iconfont.cn/](https://www.iconfont.cn/)
 
 ## 目录
 
