@@ -31,7 +31,7 @@ top_img: https://img.limin.studio/2024/12/16fusion.png
 updated: '2024-12-23T15:52:54.001+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LsaEFq6OXmU?si=pS1fmAunTpFvxfwJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -94,3 +94,4 @@ updated: '2024-12-23T15:52:54.001+08:00'
 ### 香港银行开户攻略
 
 [点击查看攻略](https://www.limin.studio/2024/12/17/hkbankkaihu/)
+
