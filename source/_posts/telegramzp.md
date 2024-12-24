@@ -32,7 +32,7 @@ top_img: https://img.limin.studio/2024/12/jtzpdaj.png
 updated: '2024-12-24T15:11:04.753+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CZivQySNhXc?si=YML0Lw3vYx98SrtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -82,10 +82,10 @@ height: 100%;
   你可以复制我的用户名并发送到任何聊天框，然后查看是否跳转到我那里。如果不能跳转，说明不是我。
   **注意**：我设置了只允许通过我的“传话筒”跟我聊天。
 * **骗子特征**：
-
+  
   1. **骗子头像**：骗子通常会使用多个不同的头像。
   2. **要求转账**：骗子会让你转钱或USDT，见到后直接拉黑处理。
-
+  
   **大家务必小心！**
 
 ![](https://img.limin.studio/2024/12/telegramzp.png)
@@ -96,3 +96,4 @@ height: 100%;
 
 1. 在对话框里发送我的用户名： **@liminstudio**
 2. 如果你能进入我的页面，那就是我本人！同时，这个机器人也可以用来搜索其他信息，大家可以自行尝试。
+
