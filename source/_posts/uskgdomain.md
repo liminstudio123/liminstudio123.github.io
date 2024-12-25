@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://img.limin.studio/2024/12/USKG.png
+cover: https://img.limin.studio/2024/12/USKG1.png
 date: '2024-12-25T15:25:34.719835+08:00'
 description: null
 highlight_shrink: null
@@ -27,7 +27,7 @@ toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: https://img.limin.studio/2024/12/USKG.png
+top_img: https://img.limin.studio/2024/12/USKG1.png
 updated: '2024-12-25T15:31:23.191+08:00'
 ---
 <div class="video-container">
