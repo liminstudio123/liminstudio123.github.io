@@ -21,15 +21,14 @@ mathjax: null
 swiper_index: 10
 tags:
 - 好用工具
-title: '**US.KG 免费域名注册全攻略 | 100% 成功 | 永久免费 | 快速完成 GitHub KYC 验证 | 从域名注册到 Cloudflare
-  托管全流程教程**'
+title: US.KG 免费域名注册全攻略 | 100% 成功 | 永久免费 | 快速完成 GitHub KYC 验证 | 从域名注册到 Cloudflare 托管全流程教程
 toc: null
 toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/USKG.png
-updated: '2024-12-25T15:25:36.186+08:00'
+updated: '2024-12-25T15:31:23.191+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
