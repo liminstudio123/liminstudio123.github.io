@@ -28,7 +28,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/USKG1.png
-updated: '2024-12-25T15:31:23.191+08:00'
+updated: '2024-12-25T22:38:56.156+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
@@ -59,7 +59,7 @@ updated: '2024-12-25T15:31:23.191+08:00'
 
 ### **相关链接**
 
-* [US.KG免费域名注册](https://register.us.kg/auth/register)
+* [US.KG免费域名注册](https://nic.us.kg/)
 * [Cloudflare](https://www.cloudflare.com/)
 * [Github](https://github.com/)
 * [美国地址生成器](https://www.meiguodizhi.com/)
