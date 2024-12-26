@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://img.limin.studio/2024/12/spaceship.png
+cover: https://img.limin.studio/2024/12/USKGspaceship.png
 date: '2024-12-26T08:36:41.802201+08:00'
 description: null
 highlight_shrink: null
@@ -27,8 +27,8 @@ toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: https://img.limin.studio/2024/12/spaceship.png
-updated: '2024-12-26T08:36:43.608+08:00'
+top_img: https://img.limin.studio/2024/12/USKGspaceship.png
+updated: '2024-12-26T09:12:06.507+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
