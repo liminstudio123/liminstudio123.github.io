@@ -28,10 +28,10 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/USKGspaceship.png
-updated: '2024-12-26T09:12:06.507+08:00'
+updated: '2024-12-26T13:33:19.602+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Whmahm--DM?si=AecK0QtZ0PmbLPhD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -63,3 +63,4 @@ updated: '2024-12-26T09:12:06.507+08:00'
 
 **托管到Cloudflare**
 [点击访问Cloudflare](https://www.cloudflare.com/)
+
