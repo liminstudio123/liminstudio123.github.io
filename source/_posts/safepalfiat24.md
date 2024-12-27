@@ -29,9 +29,8 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/ukasafepalfait24.png
-updated: '2024-12-27T15:38:07.071+08:00'
+updated: '2024-12-27T15:44:48.584+08:00'
 ---
-
 ### 我的电报群与官方频道
 
 * **进群实时交流**：[点击这里加入电报群](https://t.me/limingroup)
@@ -41,9 +40,11 @@ updated: '2024-12-27T15:38:07.071+08:00'
 
 ### 简介：
 
-SafePal加密货币钱包​**是一款币安投资的全球领先的安全、去中心化、易用且免费的应用程序**​，提供加密货币的存储、转账、收款等强大功能和流畅简洁的用户体验，让你轻松管理上万种加密数字资产。 \* SafePal加密货币钱包是一款去中心化应用程序。 钱包内生成的助记词由用户独自保管。
+SafePal加密货币钱包**是一款币安投资的全球领先的安全、去中心化、易用且免费的应用程序**，提供加密货币的存储、转账、收款等强大功能和流畅简洁的用户体验，让你轻松管理上万种加密数字资产。 \* SafePal加密货币钱包是一款去中心化应用程序。 钱包内生成的助记词由用户独自保管。
 
-Fiat24 ​**是一家获瑞士金融市场监管局（FINMA）发牌的金融科技公司**​，其推出了第一个将银行逻辑完全架构在公共区块链(Arbitrum）上，完全由智能合约驱动的Web3 银行协议，为用户创建一个链上银行账户，提供出入金、加密消费支付、储蓄、转账、换汇等一系列的Web3 银行服务。
+**硬件钱包介绍地址**：https://www.safepal.com/store/s1?ref=otu5nme
+
+Fiat24 **是一家获瑞士金融市场监管局（FINMA）发牌的金融科技公司**，其推出了第一个将银行逻辑完全架构在公共区块链(Arbitrum）上，完全由智能合约驱动的Web3 银行协议，为用户创建一个链上银行账户，提供出入金、加密消费支付、储蓄、转账、换汇等一系列的Web3 银行服务。
 
 ### 特别提醒：
 
@@ -60,7 +61,7 @@ Fiat24 ​**是一家获瑞士金融市场监管局（FINMA）发牌的金融科
 
 ### 注册注意事项：
 
-1. 使用两款App：**SafePal**（中国区苹果商店暂无，需要外区Apple ID）和**ReadID Ready**。 ![](https://img.limin.studio/2024/12/photo_2024-12-27_15-23-19.jpg)
+1. 下载链接[https://www.safepal.com/store/s1?ref=otu5nme]([https://](https://www.safepal.com/store/s1?ref=otu5nme))使用两款App：**SafePal**（中国区苹果商店暂无，需要外区Apple ID）和**ReadID Ready**。 ![](https://img.limin.studio/2024/12/photo_2024-12-27_15-23-19.jpg)
 2. 消费时需要先将余额转换为对应的货币，否则会提示余额不足。
 3. 转账或收款时，需确保账户名称一致，**否则会扣款10 EUR/10 CHF。**
 4. **支持出金到券商**：目前支持盈透证券和嘉信。
@@ -155,6 +156,58 @@ Fiat24 ​**是一家获瑞士金融市场监管局（FINMA）发牌的金融科
 [up主专用，视频内嵌代码贴在这]
 </div>
 
+<div class="video-container">
+[up主专用，视频内嵌代码贴在这]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 <style>
 .video-container {
     position: relative;
@@ -219,3 +272,18 @@ Fiat24 ​**是一家获瑞士金融市场监管局（FINMA）发牌的金融科
 }
 </style>
 
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
