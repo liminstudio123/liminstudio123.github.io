@@ -29,16 +29,11 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/ukasafepalfait24.png
-updated: '2024-12-27T15:14:16.755+08:00'
+updated: '2024-12-27T15:38:07.071+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
 </div>
-
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
 
 <style>
 .video-container {
@@ -216,3 +211,4 @@ updated: '2024-12-27T15:14:16.755+08:00'
 ---
 
 更多详细规则及说明，请参考[官方文档](https://docs.fiat24.com/user/payments)。
+
