@@ -31,27 +31,6 @@ top_group_index: 10
 top_img: https://img.limin.studio/2024/12/ukasafepalfait24.png
 updated: '2024-12-29T00:08:37.507+08:00'
 ---
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yOIHXXuanhE?si=IUnnZEVG7fvOoYc6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
-
 
 ### 我的电报群与官方频道
 
@@ -173,4 +152,26 @@ Fiat24 **是一家获瑞士金融市场监管局（FINMA）发牌的金融科技
 ---
 
 更多详细规则及说明，请参考[官方文档](https://docs.fiat24.com/user/payments)。
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yOIHXXuanhE?si=IUnnZEVG7fvOoYc6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+
 
