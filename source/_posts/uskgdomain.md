@@ -28,10 +28,10 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2024/12/USKG1.png
-updated: '2024-12-25T22:38:56.156+08:00'
+updated: '2024-12-31T23:49:31.696+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykjODZec8F8?si=nNLGKnN7eq6_QkiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -83,3 +83,4 @@ updated: '2024-12-25T22:38:56.156+08:00'
 * qq.com
 
 **为了免费使用我们的服务并防止滥用，请尝试使用带有这些域名的电子邮件地址。**
+
