@@ -28,7 +28,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/Qexo/25/1/720b003518c418262a5ac9eae42637bf.png
-updated: '2025-01-04T12:55:14.301+08:00'
+updated: '2025-01-04T13:24:27.879+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
@@ -49,7 +49,6 @@ updated: '2025-01-04T12:55:14.301+08:00'
     height: 100%;
 }
 </style>
-
 
 ---
 
@@ -100,6 +99,15 @@ R=(AP)365T−1R = \\left( \\frac{A}{P} \\right)^{\\frac{365}{T}} - 1### 已知�
 
 ---
 
+
+
+### 长桥开户优惠活动
+
+1. **长桥 (HK) ，港美股终身免佣：**
+   [点击这里开户](https://app.longbridgehk.com/ac/oa?account_channel=lb&channel=HB100002&invite-code=Z9V9J1)
+2. **长桥 (SG) 开户，港美股终身免佣：**
+   [点击这里开户](https://activity.lbmkt.ing/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&account_channel=lb&lang=zh-CN&channel=HB100002&invite-code=Z9V9J1)
+
 ### 存量投资证明
 
 进群后请与群主联系，发送“传话筒”私聊群主。**注意**：群内有冒充群主行骗的情况，头像和名字与利民相同，请小心辨别。利民不会私聊任何人。
@@ -140,3 +148,8 @@ R=(AP)365T−1R = \\left( \\frac{A}{P} \\right)^{\\frac{365}{T}} - 1### 已知�
 * 地址证明请使用**身份证照片**。
 * 验证时选择**大陆行卡**，不能使用其它地区的卡。
 * 存量投资证明可以通过进群联系利民免费办理。
+
+---
+
+
+这样整理后，信息更加清晰明了。如果有其他内容需要整理，欢迎告诉我！
