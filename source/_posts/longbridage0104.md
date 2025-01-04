@@ -31,7 +31,7 @@ top_img: https://img.limin.studio/Qexo/25/1/720b003518c418262a5ac9eae42637bf.png
 updated: '2025-01-04T13:24:27.879+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDl4axfLBtg?si=n_qaQuZzAykxVhLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -99,8 +99,6 @@ R=(AP)365T−1R = \\left( \\frac{A}{P} \\right)^{\\frac{365}{T}} - 1### 已知�
 
 ---
 
-
-
 ### 长桥开户优惠活动
 
 1. **长桥 (HK) ，港美股终身免佣：**
@@ -151,5 +149,5 @@ R=(AP)365T−1R = \\left( \\frac{A}{P} \\right)^{\\frac{365}{T}} - 1### 已知�
 
 ---
 
-
 这样整理后，信息更加清晰明了。如果有其他内容需要整理，欢迎告诉我！
+
