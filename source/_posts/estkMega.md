@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://img.limin.studio/Qexo/25/1/8108a7e255e76fc50c35c6e833c25d59.png
+cover: https://img.limin.studio/Qexo/25/1/d8b30ee11c063fc14a528c4ee000b6a2.png
 date: '2025-01-05T14:48:59.283777+08:00'
 description: null
 highlight_shrink: null
@@ -27,7 +27,7 @@ toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: https://img.limin.studio/Qexo/25/1/8108a7e255e76fc50c35c6e833c25d59.png
+top_img: https://img.limin.studio/Qexo/25/1/d8b30ee11c063fc14a528c4ee000b6a2.png
 updated: '2025-01-05T14:48:59.256+08:00'
 ---
 <div class="video-container">
