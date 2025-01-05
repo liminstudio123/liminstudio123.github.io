@@ -1,43 +1,45 @@
 ---
-title:  iPhone秒变eSIM手机 estk详细使用说明，各设备macOS/Windows/安卓手机/苹果手机，秒变esim手机
-cover: https://13fe9ff.webp.li/2024/10/40c2fd91a0e040e4333ade1b71b3274d.png
-swiper_index: 10
-top_group_index: 10
+abbrlink: ''
+ai: null
+aplayer: null
+aside: null
 background: '#fff'
-date: 2024-10-30 22:36:52
-updated:
-tags: 国产变eSIM 
-categories: 国产变eSIM
-keywords:
-description:
-top:
+categories:
+- 国产变eSIM
+comments: null
+copyright: null
+copyright_author: null
+copyright_author_href: null
+copyright_info: null
+copyright_url: null
+cover: https://13fe9ff.webp.li/2024/10/40c2fd91a0e040e4333ade1b71b3274d.png
+date: '2024-10-30T22:36:52+08:00'
+description: null
+highlight_shrink: null
+katex: null
+keywords: null
+mathjax: null
+swiper_index: 10
+tags:
+- 国产变eSIM
+title: iPhone秒变eSIM手机 estk详细使用说明，各设备macOS/Windows/安卓手机/苹果手机，秒变esim手机
+toc: null
+toc_number: null
+toc_style_simple: null
+top: null
+top_group_index: 10
 top_img: https://13fe9ff.webp.li/2024/10/40c2fd91a0e040e4333ade1b71b3274d.png
-comments:
-toc:
-toc_number:
-toc_style_simple:
-copyright:
-copyright_author:
-copyright_author_href:
-copyright_url:
-copyright_info:
-mathjax:
-katex:
-aplayer:
-highlight_shrink:
-aside:
-ai:
-
+updated: '2025-01-05T14:19:02.914+08:00'
 ---
 # 联系方式
 
 - **我的电报群**（进群实时交流）：[https://t.me/limingroup](https://t.me/limingroup)
 - **我的电报官方频道**：[https://t.me/liminchannel](https://t.me/liminchannel)
 
-# eSTK购买信息
+# eSTK购买信息（2025年已经推出最新产品Mega，旧产品已经下线）
 
-- **优惠码**：1688（享9折优惠）
-- **下单链接**：[https://www.estk.me/product/estkme-eco?aid=1897](https://www.estk.me/product/estkme-eco?aid=1897)
+- **优惠码**：1688（享9折优惠，部分商品不适用）
+- **下单链接**：[https://www.estk.me/product/estkme-meg/?aid=1897](https://www.estk.me/product/estkme-meg/?aid=1897)
 
 ---
 
