@@ -31,7 +31,7 @@ top_img: https://img.limin.studio/Qexo/25/1/d8b30ee11c063fc14a528c4ee000b6a2.png
 updated: '2025-01-06T11:38:35.641+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OA66SDwjubo?si=gqdHo9vhsC1d0mdy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
