@@ -34,6 +34,74 @@ updated: '2025-01-06T11:38:35.641+08:00'
 [up主专用，视频内嵌代码贴在这]
 </div>
 
+<div class="video-container">
+[up主专用，视频内嵌代码贴在这]
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 <style>
 .video-container {
     position: relative;
@@ -175,6 +243,13 @@ eSTK的安全性尤其值得一提。它像一个优盘，所有数据都存储�
 * eSTK不支持退货，购买时请慎重考虑。
 * 如果只有苹果手机没有安卓设备，还需要在eSTK上购买一个读卡器，首次使用时需要用电脑写入，之后就不再需要了。
 * 购买时请注意，国内用户使用中文填写地址，国外用户使用英文填写。
+
+
+### 9eSIM购买链接（安卓专用）
+
+**购买链接：** （优惠2美元）
+
+[https://www.9esim.com/product/standard-package/?coupon=1688](https://www.9esim.com/product/standard-package/?coupon=1688)
 
 ---
 
