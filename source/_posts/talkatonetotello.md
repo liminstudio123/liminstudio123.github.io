@@ -31,7 +31,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2025/01/GoogleVoicetello.png
-updated: '2025-01-08T10:45:50.223+08:00'
+updated: '2025-01-08T10:59:42.469+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
@@ -53,7 +53,6 @@ updated: '2025-01-08T10:45:50.223+08:00'
 }
 </style>
 
-
 ---
 
 ## **Talkatone 号码移植及相关信息**
@@ -70,7 +69,7 @@ updated: '2025-01-08T10:45:50.223+08:00'
 ### **相关说明**
 
 * **工作日在线回复：**
-  Talkatone 在工作日网上才会回复，建议大家开好了 Talkatone 后，使用两个月再转出去，否则 Talkatone 可能会因问题过多而不允许转出。
+  Talkatone 在工作日晚上才会回复，建议大家开好了 Talkatone 后，使用两个月再转出去，否则 Talkatone 可能会因问题过多而不允许转出。
 * **Talkatone 开户教程（超过靓号）：**
   [https://youtu.be/By-mwSaRQIo](https://youtu.be/By-mwSaRQIo)
 * **Tello 实体卡保号神卡！每月 5 美元，无限收发短信，可打接电话视频教程：**
