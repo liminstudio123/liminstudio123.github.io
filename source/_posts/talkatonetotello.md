@@ -34,7 +34,7 @@ top_img: https://img.limin.studio/2025/01/GoogleVoicetello.png
 updated: '2025-01-08T14:44:04.167+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4zadOg3ZQGM?si=DMBmlaIAHY-ZnPyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -132,3 +132,4 @@ updated: '2025-01-08T14:44:04.167+08:00'
 欢迎进我的电报群，**小心任何私聊你的人都是骗子！** 有人冒充利民行骗，头像和昵称跟利民一样，大家务必小心！
 
 ---
+
