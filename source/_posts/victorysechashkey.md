@@ -116,7 +116,7 @@ updated: '2025-01-10T14:22:22.006+08:00'
 
 ![10.png](https://img.limin.studio/Qexo/25/1/c28100a7f72e0e27ac069ba83d80dd33.png)
 
-![11.png](https://img.limin.studio/Qexo/25/1/69faa0f73cd6905a157e5d142f4a7753.png)
+![身1份证号.png](https://img.limin.studio/Qexo/25/1/ee75f22cf89aeb532dcddb7ccdf98caa.png)
 
 ## APP下载
 
