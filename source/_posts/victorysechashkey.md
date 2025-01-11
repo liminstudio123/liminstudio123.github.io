@@ -32,10 +32,10 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/Qexo/25/1/bb666361c547f3be2f7710d87de47d9a.png
-updated: '2025-01-10T14:22:22.006+08:00'
+updated: '2025-01-11T23:24:30.456+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_LPXq2Rcz-U?si=V7GdeecQ4BIL7mba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -79,9 +79,9 @@ updated: '2025-01-10T14:22:22.006+08:00'
 下面是胜利证券的声明：
 
 > 我们是香港证券公司，我们遵照证监会的指引为客户办理手续。海外地址证明，证监会的要求可以是原件，可以是图片可以是pdf格式的文件，客户提供了就要自己负责，对文件的真实性负责，只要提供了我们就可以接受。
->
+> 
 > 注意：只能是住宅地址，不可以是写字楼办公室等等。 请要自行用google map查一下是否为住宅地址再提供。
->
+> 
 > 声明：请提供真实有效的客户本人的地址证明。
 
 **利民开户链接（ 加速审核 ）**：[点击跳转](https://open.victorysec.com.hk/open/so/main?ae=C7117BA64D1330886C1586124599DD1F)
@@ -137,3 +137,4 @@ updated: '2025-01-10T14:22:22.006+08:00'
 充值建议大家用matemask小狐狸钱包，手续费低。
 
 **声明：加密货币变化莫测，大家谨慎投资，利民不承担任何责任！**
+
