@@ -32,7 +32,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/Qexo/25/1/bb666361c547f3be2f7710d87de47d9a.png
-updated: '2025-01-11T23:24:30.456+08:00'
+updated: '2025-01-12T18:30:32.611+08:00'
 ---
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_LPXq2Rcz-U?si=V7GdeecQ4BIL7mba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -74,14 +74,14 @@ updated: '2025-01-11T23:24:30.456+08:00'
 一，中国大陆身份证
 二，一张国内的银行卡（香港身份证持有者不需要此项）
 三，香港银行账号，必须是开户人本人名字的
-四，海外地址证明（最近三个月之内的任意一张水费，电费，煤气费，银行对账单，证券公司对账单等。需要是非内地的住宅地址）**（有困难进电报群免费帮你解决）**
+四，海外地址证明（最近三个月之内的任意一张水费，电费，煤气费，银行对账单，证券公司对账单等。需要是非内地的住宅地址）**（有困难进电报群解决）**
 
 下面是胜利证券的声明：
 
 > 我们是香港证券公司，我们遵照证监会的指引为客户办理手续。海外地址证明，证监会的要求可以是原件，可以是图片可以是pdf格式的文件，客户提供了就要自己负责，对文件的真实性负责，只要提供了我们就可以接受。
-> 
+>
 > 注意：只能是住宅地址，不可以是写字楼办公室等等。 请要自行用google map查一下是否为住宅地址再提供。
-> 
+>
 > 声明：请提供真实有效的客户本人的地址证明。
 
 **利民开户链接（ 加速审核 ）**：[点击跳转](https://open.victorysec.com.hk/open/so/main?ae=C7117BA64D1330886C1586124599DD1F)
@@ -137,4 +137,3 @@ updated: '2025-01-11T23:24:30.456+08:00'
 充值建议大家用matemask小狐狸钱包，手续费低。
 
 **声明：加密货币变化莫测，大家谨慎投资，利民不承担任何责任！**
-
