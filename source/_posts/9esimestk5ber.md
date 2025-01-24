@@ -28,7 +28,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://a0d7da0.webp.li/2024/11/estk9sim5ber.png
-updated: '2025-01-05T14:16:18.521+08:00'
+updated: '2025-01-24T21:03:50.569+08:00'
 ---
 <div class="video-container">
 [<iframe width="560" height="315" src="https://www.youtube.com/embed/v6viS3XmdW8?si=iOLhTmlMFCrMm9dq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
@@ -100,7 +100,7 @@ updated: '2025-01-05T14:16:18.521+08:00'
 
 #### **9eSIM**
 
-- 利民专属购买链接（送2美元）：[点击购买](https://www.9esim.com/?coupon=1688)
+- 利民专属购买链接（送2美元）：[点击购买](https://www.9esim.com/product/strengthen-package/?coupon=1688)
 - 使用教程（安卓、苹果）：[点击观看](https://youtu.be/oM_s-l5jxNc?si=8HE82wx8vcYZuOy3)
 - 软件下载：[点击下载](https://www.9esim.com/ecosystem-software-download/)
 
