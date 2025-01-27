@@ -28,7 +28,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/Qexo/25/1/d8b30ee11c063fc14a528c4ee000b6a2.png
-updated: '2025-01-06T11:38:35.641+08:00'
+updated: '2025-01-27T14:46:04.720+08:00'
 ---
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OA66SDwjubo?si=gqdHo9vhsC1d0mdy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -211,15 +211,15 @@ eSTK的安全性尤其值得一提。它像一个优盘，所有数据都存储�
 
 ### **1. eSTK和5ber的对比**
 
-| **对比项**       | **eSTK**                                                                                      | **5ber**                                                                               |
-| ---------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **对比项**       | **eSTK**                                                                                | **5ber**                                                                         |
+| ---------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **项目介绍**     | 开源项目，资料存储在手机卡内，安全性较高。                                                    | 非开源项目，资料存储在服务器，安全性较低。                                             |
 | **iPhone兼容性** | 支持国行iPhone直接管理eSIM号码，无需拔卡操作，且支持40个eSIM号码。                            | 不支持国行iPhone直接管理，必须在安卓手机上操作后再转移至iPhone，且仅支持15个eSIM号码。 |
 | **使用便捷性**   | iPhone用户可直接添加、删除、管理eSIM号码，无需其他设备，支持断网使用。                        | iPhone用户需通过安卓手机进行初始配置和管理，每次更改号码需拔卡，操作繁琐。             |
-|                  | 安卓手机用户可通过APP方便管理eSIM号码，无需拔卡。                                             | 安卓手机用户需借助APP管理eSIM，但操作不如eSTK便捷。                                    |
+|                        | 安卓手机用户可通过APP方便管理eSIM号码，无需拔卡。                                             | 安卓手机用户需借助APP管理eSIM，但操作不如eSTK便捷。                                    |
 | **价格与支付**   | **eSTKme-air：**65人民币（69港币），支持2个eSIM切换。不支持在iPhone上下载/切换/删除手机号码。 | **Standard：**85人民币，支持2个免费eSIM，超过2个需付费。                               |
-|                  | **eSTKme-ESS：**155人民币，一次性付费，支持无限次使用，支持苹果自主写卡，可支持20个eSIM号码。 | **Premium：**178人民币，支持15个eSIM。                                                 |
-|                  | **eSTKme-Mega：**187人民币，1036KB内存，苹果自主写卡，最多支持40个eSIM。                      | **Ultra：**200人民币（仅支持苹果切卡，不能写卡）。                                     |
+|                        | **eSTKme-ESS：**155人民币，一次性付费，支持无限次使用，支持苹果自主写卡，可支持20个eSIM号码。 | **Premium：**178人民币，支持15个eSIM。                                                 |
+|                        | **eSTKme-Mega：**187人民币，840KB内存，苹果自主写卡，最多支持40个eSIM。                       | **Ultra：**200人民币（仅支持苹果切卡，不能写卡）。                                     |
 | **总体评价**     | 适合频繁切换多个eSIM号码的用户，尤其是国行iPhone用户，操作简便，安全性高。                    | 适合对安全性和操作便捷性要求不高、使用安卓手机的用户。                                 |
 
 ---
@@ -267,4 +267,3 @@ eSTK的安全性尤其值得一提。它像一个优盘，所有数据都存储�
 见视频：[https://youtu.be/oM\_s-l5jxNc?si=6wXD1ReMdEZ7QH-A](https://youtu.be/oM_s-l5jxNc?si=6wXD1ReMdEZ7QH-A)
 
 ---
-
