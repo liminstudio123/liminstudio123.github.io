@@ -31,13 +31,10 @@ top_group_index: 10
 top_img: https://img.limin.studio/2025/02/BybitCard.png
 updated: '2025-02-18T15:55:26.561+08:00'
 ---
-# 我的电报群（进群实时交流）：[https://t.me/limingroup](https://t.me/limingroup)
+## 我的电报群（进群实时交流）：[https://t.me/limingroup](https://t.me/limingroup)
 
-# 我的电报官方频道：[https://t.me/liminchannel](https://t.me/liminchannel)
+## 我的电报官方频道：[https://t.me/liminchannel](https://t.me/liminchannel)
 
-# Bybit卡体验分享：如何申请及享受最高15%返现
-
-我最近使用了Bybit虚拟卡，体验非常好，今天和大家分享一下我的使用感受。如果你也想知道如何申请Bybit卡以及如何通过返现节省更多开支，这篇文章一定对你有帮助！
 
 ## 为什么选择Bybit卡？
 
