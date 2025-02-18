@@ -36,6 +36,9 @@ updated: '2025-02-18T15:55:26.561+08:00'
 ## 我的电报官方频道：[https://t.me/liminchannel](https://t.me/liminchannel)
 
 
+### 关于如何用Bybit激活wise，有问题欢迎进电报群随时交流，wise开户教程在这里（最安全的开户教程）[https://youtu.be/7iDy8KYM-HI?si=OGNTV8WNY4T518C3]([https://](https://youtu.be/7iDy8KYM-HI?si=OGNTV8WNY4T518C3))
+
+
 ## 为什么选择Bybit卡？
 
 Bybit卡有很多优势，尤其是返现力度非常大：
