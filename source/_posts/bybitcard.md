@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://img.limin.studio/2025/02/必开U卡 Bybit Card.png
+cover: https://img.limin.studio/2025/02/BybitCard.png
 date: '2025-02-18T15:51:16.180265+08:00'
 description: null
 highlight_shrink: null
@@ -28,7 +28,7 @@ toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: https://img.limin.studio/2025/02/必开U卡 Bybit Card.png
+top_img: https://img.limin.studio/2025/02/BybitCard.png
 updated: '2025-02-18T15:55:26.561+08:00'
 ---
 # 刚发车，别错过！0门槛开通Bybit Card!享受最高15%返现，可激活Wise
