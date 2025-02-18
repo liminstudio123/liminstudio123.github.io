@@ -31,27 +31,13 @@ top_group_index: 10
 top_img: https://img.limin.studio/2025/02/必开U卡 Bybit Card.png
 updated: '2025-02-18T15:55:26.561+08:00'
 ---
-<div class="video-container">
-[up主专用，视频内嵌代码贴在这]
-</div>
-
-<style>
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
 # 刚发车，别错过！0门槛开通Bybit Card!享受最高15%返现，可激活Wise
+
+
+## 我的电报群（进群实时交流）：[https://t.me/limingroup](https://t.me/limingroup)
+
+## 我的电报官方频道：[https://t.me/liminchannel](https://t.me/liminchannel)
+
 
 ## 为什么选择Bybit卡？
 
@@ -64,8 +50,8 @@ Bybit卡有很多优势，尤其是返现力度非常大：
 ## 如何申请Bybit卡？
 
 1. **注册账户**：通过[此链接](https://partner.bybit.com/b/90708)注册，并填写邮箱、密码。
-2. **身份认证**：完成身份认证，上传身份证或护照。如果你在中国大陆，就选择“中国”，只需要kyc1就可以。
-3. **申请卡片**：身份认证通过后，进入“金融”页面申请虚拟卡，并填写邀请码**90708**。这里有个知识点，开卡时候请选择“Australia”，这样就可以不用地址证明直接开户了！
+2. **身份认证**：完成身份认证，上传身份证或护照。如果你在中国大陆，就选择**中国**，只需要**kyc1**就可以。
+3. **申请卡片**：身份认证通过后，进入“金融”页面申请虚拟卡，并填写邀请码**90708**。这里有个知识点，开卡时候请选择“**Australia**”，这样就可以不用地址证明直接开户了！
 4. **充值与使用**：充值USDT到Bybit卡后，即可进行消费，享受返现和低损耗。
 
 ## 返现活动
