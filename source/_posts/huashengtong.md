@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://img.limin.studio/2025/02/huashengzhengqan.png
+cover: https://img.limin.studio/2025/02/huashengzhengquan1.png
 date: '2025-02-22T21:56:02.835823+08:00'
 description: null
 highlight_shrink: null
@@ -21,15 +21,15 @@ mathjax: null
 swiper_index: 10
 tags:
 - 港美股开户
-- 必备券商
+- 必开券商
 title: 2025年华盛证券开户指南及最新优惠活动
 toc: null
 toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: https://img.limin.studio/2025/02/huashengzhengqan.png
-updated: '2025-02-22T21:56:03.550+08:00'
+top_img: https://img.limin.studio/2025/02/huashengzhengquan1.png
+updated: '2025-02-22T22:06:36.566+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
@@ -50,7 +50,6 @@ updated: '2025-02-22T21:56:03.550+08:00'
     height: 100%;
 }
 </style>
-
 
 # 我的电报群与官方频道
 
