@@ -29,7 +29,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2025/02/huashengzhengquan1.png
-updated: '2025-02-22T22:06:36.566+08:00'
+updated: '2025-02-23T19:21:48.606+08:00'
 ---
 <div class="video-container">
 [up主专用，视频内嵌代码贴在这]
@@ -67,7 +67,7 @@ updated: '2025-02-22T22:06:36.566+08:00'
 首先，您需要在网页上进行注册。请通过以下专属邀请链接注册：
 **专属邀请链接**：[https://www.hstbroker.com/kh/apply/online?_scnl=QDWP](https://www.hstbroker.com/kh/apply/online?_scnl=QDWP)
 **邀请码**：**QDWP**
-注册时，确保使用有效的电子邮件地址或手机号码。请注意，申请开户时需身处香港或海外地区。
+注册时，确保使用有效的电子邮件地址或手机号码。
 
 ### 2. 上传投资账户结单证明
 
