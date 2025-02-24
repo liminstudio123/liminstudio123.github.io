@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://img.limin.studio/2025/02/241a8d5cad8c02426b9f3d6d36e6c786.png
+cover: https://img.limin.studio/Qexo/25/2/241a8d5cad8c02426b9f3d6d36e6c786.png
 date: '2025-02-24T15:35:48.770544+08:00'
 description: null
 highlight_shrink: null
@@ -27,7 +27,7 @@ toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: https://img.limin.studio/2025/02/241a8d5cad8c02426b9f3d6d36e6c786.png
+top_img: https://img.limin.studio/Qexo/25/2/241a8d5cad8c02426b9f3d6d36e6c786.png
 updated: '2025-02-24T16:00:50.136+08:00'
 ---
 以下是整理后的文章：
