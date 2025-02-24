@@ -21,14 +21,14 @@ mathjax: null
 swiper_index: 10
 tags:
 - 加密货币安全出金
-title: OSL交易所开户教程｜开户HKD10,088比特幣，加密货币合法出入金，再也不担心冻卡了/胜利证券/Hashkey
+title: 香港上市OSL交易所开户教程｜开户HKD10,088比特幣，加密货币合法出入金，再也不担心冻卡了/胜利证券/Hashkey
 toc: null
 toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: null
-updated: '2025-02-24T15:35:48.831+08:00'
+updated: '2025-02-24T16:00:50.136+08:00'
 ---
 以下是整理后的文章：
 
