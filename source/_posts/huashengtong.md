@@ -29,10 +29,10 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2025/02/huashengzhengquan1.png
-updated: '2025-02-23T19:21:48.606+08:00'
+updated: '2025-02-24T17:17:36.488+08:00'
 ---
 <div class="video-container">
-[up主专用，视频内嵌代码贴在这]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jEkh_un5qX4?si=3y-3X4HHKD8VdN9d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -132,3 +132,4 @@ updated: '2025-02-23T19:21:48.606+08:00'
 ## 最后一步：下载华盛通App
 
 在完成注册后，您需要下载华盛通App来完成账户激活。请注意，下载App需要使用外区Apple ID（如香港或其他海外地区Apple ID）。如果您没有外区Apple ID，请创建一个。
+
