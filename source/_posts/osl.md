@@ -29,8 +29,28 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/Qexo/25/2/241a8d5cad8c02426b9f3d6d36e6c786.png
-updated: '2025-02-24T22:24:54.525+08:00'
+updated: '2025-02-27T19:39:53.314+08:00'
 ---
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atRegNbwhJA?si=b0ki9r_NwbqIEgsm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
 **我的电报群（进群实时交流）：**[https://t.me/limingroup](https://t.me/limingroup)
 **我的电报官方频道：**[https://t.me/liminchannel](https://t.me/liminchannel)
 
@@ -59,7 +79,6 @@ updated: '2025-02-24T22:24:54.525+08:00'
 
 📌 **活动时间：** 2025年2月24日 09:00（香港时间）至 2025年3月31日 23:59
 📌 **注册链接：**[https://trade-hk.osl.com/register?channel=PPXtZS](https://trade-hk.osl.com/register?channel=PPXtZS)
-
 
 | **客户类型**         | **奖励（BTC）** | **条件**                                 |
 | -------------------- | --------------- | ---------------------------------------- |
@@ -103,10 +122,9 @@ OSL采用**冷热钱包分离存储资产**，绝大部分加密货币存放在*
 * **入金方式**：支持加密货币存款（BTC、ETH）
 * **出金方式**：支持加密货币提取
 
-
 | 货币              | 提现方式 | 手续费     | 最低提现额度 | 每日最高提现 |
 | ----------------- | -------- | ---------- | ------------ | ------------ |
-| **比特币（BTC）** | 区块链   | 0.0001 BTC | 0.001 BTC   | 200 BTC      |
+| **比特币（BTC）** | 区块链   | 0.0001 BTC | 0.001 BTC   | 200 BTC      |
 | **以太坊（ETH）** | 区块链   | 0.01 ETH   | 0.01 ETH     | 3,000 ETH    |
 
 ---
@@ -127,7 +145,6 @@ OSL采用**冷热钱包分离存储资产**，绝大部分加密货币存放在*
 ✅**快速交易不收任何费用。**
 
 ✅**OSL专业和企业投资者的交易手续费**为0.1%-0.3%（交易量等级愈大，手续费愈低；如下表）
-
 
 | **交易金额（USD）**    | **挂单（Maker）** | **吃单（Taker）** |
 | ---------------------- | ----------------- | ----------------- |
@@ -168,3 +185,4 @@ OSL交易平台设计简洁，适合新手及专业投资者使用。
 📢 **官方频道：**[https://t.me/liminchannel](https://t.me/liminchannel)
 
 📌 **注册链接：**[https://trade-hk.osl.com/register?channel=PPXtZS](https://trade-hk.osl.com/register?channel=PPXtZS)
+
