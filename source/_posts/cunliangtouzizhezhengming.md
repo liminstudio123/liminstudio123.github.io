@@ -30,7 +30,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: https://img.limin.studio/2025/03/cltzzm.png
-updated: '2025-03-04T19:50:31.945+08:00'
+updated: '2025-03-04T20:15:22.621+08:00'
 ---
 | 券商名字   | 特色                          | 存量投资证明      | 格式 | 开户奖励  | 邀请码               |
 | ---------- | ----------------------------- | ----------------- | ---- | --------- | -------------------- |
@@ -65,6 +65,11 @@ updated: '2025-03-04T19:50:31.945+08:00'
    🔗 [注册链接](https://www.hstbroker.com/kh/apply/online?_scnl=QDWP)
 6. **富途牛牛**：开户送 **1800 HKD**，邀请码 **AZ63EV**
    🔗 [官网链接](https://www.futunn.com/)
+7. **华盛证券：** 合法出入金USD HKD加密货币出入金
+   🔗 [官网链接](https://open.victorysec.com.hk/open/so/main?ae=C7117BA64D1330886C1586124599DD1F)
+8. **OSL交易所：** 香港唯一上市加密货币交易所
+   🔗 [官网链接](https://trade-hk.osl.com/register?channel=PPXtZS)
+
 
 ### 🇬🇧 **英国券商**
 
