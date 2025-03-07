@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-cover: https://img.090227.xyz/file/ae62475a131f3734a201c.png
+cover: https://img.limin.studio/Qexo/25/3/25a84afbcec498a44ef845fcd8f8cf48.png
 date: '2025-03-07T15:54:23.009114+08:00'
 description: null
 highlight_shrink: null
@@ -27,8 +27,8 @@ toc_number: null
 toc_style_simple: null
 top: null
 top_group_index: 10
-top_img: null
-updated: '2025-03-07T15:54:39.874+08:00'
+top_img: https://img.limin.studio/Qexo/25/3/25a84afbcec498a44ef845fcd8f8cf48.png
+updated: '2025-03-07T16:06:56.479+08:00'
 ---
 **我的电报群（进群实时交流）**：[点击加入](https://t.me/limingroup)
 **我的电报官方频道**：[点击关注](https://t.me/liminchannel)
